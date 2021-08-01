@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ygor Guilherme 👋😊
 
-- 🔭 Atualmente trabalho com Suporte Técnico Jr
+- 🔭 Atualmente trabalho como Suporte Técnico Jr
 - 🌱 Estudando HTML, CSS & JavaScript
 
 <div>
