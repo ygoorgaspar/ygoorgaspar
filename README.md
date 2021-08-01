@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho como Suporte Técnico Jr
 - 🌱 Estudando HTML, CSS & JavaScript
+- 📩 Contate-me no e-mail: ygorguilherme05@gmail.com
 
 <div>
   <a href="https://github.com/ygoorgaspar">
