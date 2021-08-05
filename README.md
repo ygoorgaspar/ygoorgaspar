@@ -10,11 +10,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygoorgaspar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  ###
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
+![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
   
   ##
 
