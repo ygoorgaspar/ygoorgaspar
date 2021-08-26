@@ -16,6 +16,7 @@
 ![Html](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![css](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Java Script](https://img.shields.io/badge/-Java%20Script-05122A?style=flat&logo=javaScript)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
   
   ##
 
